@@ -1,0 +1,1 @@
+I organized the output JSON with repeatability and extendability in mind. The links were guaranteed to be unique for each article accessed, so I used those as the main keys. I did not include the raw html content because it made the output JSON too large to work with. 

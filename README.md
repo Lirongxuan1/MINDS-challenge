@@ -18,3 +18,5 @@ I didn’t see any patterns over any single article. I also looked for patterns 
 
 ## JSON :
 The links were guaranteed to be unique for each article accessed, so I used those as the main keys. I did not include the raw html content because it made the output JSON too large to work with. 
+
+The total operation time was ~ 3 seconds for me. 

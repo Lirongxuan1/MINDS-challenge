@@ -1,0 +1,9 @@
+Python 3.10.4
+plotly
+pandas
+bs4
+requests
+json
+ntlk
+tqdm
+statsmodels
